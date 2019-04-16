@@ -1,0 +1,21 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b2164ea2-7abf-412b-9623-c10f5d14e8cb" name="zkzy@192.168.80.199:22" url="http:///">
+        <fileTransfer host="192.168.80.199" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b2164ea2-7abf-412b-9623-c10f5d14e8cb" name="zkzy@192.168.80.199:22" url="http:///">
+        <fileTransfer host="192.168.80.199" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b2164ea2-7abf-412b-9623-c10f5d14e8cb" name="zkzy@192.168.80.199:22" url="http:///">
+        <fileTransfer host="192.168.80.199" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
